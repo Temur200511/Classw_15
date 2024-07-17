@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    border: 1px solid black;
+}
+.text{
+    background-color: aqua;
+    width: 50%;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+ display:flex ;
+ width: 100%;
+ justify-content: center;
+ align-items: center;
+}
+.pict{
+    width: 50%;
+    height: 100vh;
+    display: flex;
+
+}
